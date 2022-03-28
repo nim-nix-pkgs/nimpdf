@@ -11,6 +11,7 @@
   inputs.src-nimPDF-master.ref   = "refs/heads/master";
   inputs.src-nimPDF-master.owner = "jangko";
   inputs.src-nimPDF-master.repo  = "nimpdf";
+  inputs.src-nimPDF-master.dir   = "";
   inputs.src-nimPDF-master.type  = "github";
   
   inputs."nimbmp".owner = "nim-nix-pkgs";
